@@ -1,5 +1,10 @@
 https
 http
+Re
+情報
+新聞
+問片
+討論
 imgur
 jpg
 www
@@ -10,6 +15,7 @@ tw
 com
 movie
 ptt
+好雷
 一個
 什麼
 沒有
